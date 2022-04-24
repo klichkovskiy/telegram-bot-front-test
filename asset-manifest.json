@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/telegram-bot-front-test/static/css/main.7b73fc5f.css",
+    "main.js": "/telegram-bot-front-test/static/js/main.570335f8.js",
+    "static/js/787.667b66b6.chunk.js": "/telegram-bot-front-test/static/js/787.667b66b6.chunk.js",
+    "static/media/spartan-v10-latin-700.ttf": "/telegram-bot-front-test/static/media/spartan-v10-latin-700.f43046a06949a397a192.ttf",
+    "static/media/spartan-v10-latin-regular.ttf": "/telegram-bot-front-test/static/media/spartan-v10-latin-regular.9f9cbc1b849fe4b0b196.ttf",
+    "static/media/spartan-v10-latin-600.ttf": "/telegram-bot-front-test/static/media/spartan-v10-latin-600.01873ba848cefaa6a578.ttf",
+    "static/media/spartan-v10-latin-500.ttf": "/telegram-bot-front-test/static/media/spartan-v10-latin-500.ff2a323b1e8e1aa11133.ttf",
+    "static/media/spartan-v10-latin-700.woff": "/telegram-bot-front-test/static/media/spartan-v10-latin-700.4282c5e6c4ab123a576b.woff",
+    "static/media/spartan-v10-latin-600.woff": "/telegram-bot-front-test/static/media/spartan-v10-latin-600.c5438210c9da063857dc.woff",
+    "static/media/spartan-v10-latin-regular.woff": "/telegram-bot-front-test/static/media/spartan-v10-latin-regular.a03f1c9f7f7e7a7d7a0c.woff",
+    "static/media/spartan-v10-latin-500.woff": "/telegram-bot-front-test/static/media/spartan-v10-latin-500.fc835a9fb9289cfb65a3.woff",
+    "static/media/spartan-v10-latin-regular.woff2": "/telegram-bot-front-test/static/media/spartan-v10-latin-regular.3882df9c2c9e6d9552ed.woff2",
+    "static/media/spartan-v10-latin-700.woff2": "/telegram-bot-front-test/static/media/spartan-v10-latin-700.20edff324d4549069d8c.woff2",
+    "static/media/spartan-v10-latin-600.woff2": "/telegram-bot-front-test/static/media/spartan-v10-latin-600.d4694d8404aa488be039.woff2",
+    "static/media/spartan-v10-latin-500.woff2": "/telegram-bot-front-test/static/media/spartan-v10-latin-500.f4afbbc4d9f4e9b60c7d.woff2",
+    "index.html": "/telegram-bot-front-test/index.html",
+    "main.7b73fc5f.css.map": "/telegram-bot-front-test/static/css/main.7b73fc5f.css.map",
+    "main.570335f8.js.map": "/telegram-bot-front-test/static/js/main.570335f8.js.map",
+    "787.667b66b6.chunk.js.map": "/telegram-bot-front-test/static/js/787.667b66b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b73fc5f.css",
+    "static/js/main.570335f8.js"
+  ]
+}
