@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/telegram-bot-front-test/static/css/main.731669fd.css",
-    "main.js": "/telegram-bot-front-test/static/js/main.010ffbe7.js",
+    "main.css": "/telegram-bot-front-test/static/css/main.58ef743e.css",
+    "main.js": "/telegram-bot-front-test/static/js/main.c6db0888.js",
     "static/js/787.667b66b6.chunk.js": "/telegram-bot-front-test/static/js/787.667b66b6.chunk.js",
     "static/media/spartan-v10-latin-700.ttf": "/telegram-bot-front-test/static/media/spartan-v10-latin-700.f43046a06949a397a192.ttf",
     "static/media/spartan-v10-latin-regular.ttf": "/telegram-bot-front-test/static/media/spartan-v10-latin-regular.9f9cbc1b849fe4b0b196.ttf",
@@ -16,12 +16,12 @@
     "static/media/spartan-v10-latin-600.woff2": "/telegram-bot-front-test/static/media/spartan-v10-latin-600.d4694d8404aa488be039.woff2",
     "static/media/spartan-v10-latin-500.woff2": "/telegram-bot-front-test/static/media/spartan-v10-latin-500.f4afbbc4d9f4e9b60c7d.woff2",
     "index.html": "/telegram-bot-front-test/index.html",
-    "main.731669fd.css.map": "/telegram-bot-front-test/static/css/main.731669fd.css.map",
-    "main.010ffbe7.js.map": "/telegram-bot-front-test/static/js/main.010ffbe7.js.map",
+    "main.58ef743e.css.map": "/telegram-bot-front-test/static/css/main.58ef743e.css.map",
+    "main.c6db0888.js.map": "/telegram-bot-front-test/static/js/main.c6db0888.js.map",
     "787.667b66b6.chunk.js.map": "/telegram-bot-front-test/static/js/787.667b66b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.731669fd.css",
-    "static/js/main.010ffbe7.js"
+    "static/css/main.58ef743e.css",
+    "static/js/main.c6db0888.js"
   ]
 }
